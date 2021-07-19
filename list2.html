@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="pragma" content="no-cache,no-store" />
+    <meta http-equiv="expires" content="0" />
+    <title>国洪应援站 β - 语录目录</title>
+    <link rel="stylesheet" href="css/StyleSheet.css" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+    <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+    <![endif]-->
+    <div class="container" style="margin-top: 15px;">
+        <nav class='navbar navbar-default'>
+            <div class='container-fluid'>
+                <div class='navbar-header'>
+                    <button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='#Nav'>
+                        <span class='sr-only'>Toggle navigation</span>
+                        <span class='icon-bar'></span>
+                        <span class='icon-bar'></span>
+                        <span class='icon-bar'></span>
+                    </button>
+                    <a class='navbar-brand' href='index.html'><img alt='Brand' src='favicon.ico' width='20' height='20'></a>
+                    <a class='navbar-brand' href='index.html'>国洪应援站β</a>
+                </div>
+                <div class='collapse navbar-collapse' id='Nav'>
+                    <ul class='nav navbar-nav' id='NavUl'>
+                        <li><a href='quote2.html'>神秘语录</a></li>
+                        <li class="active"><a href='list2.html'>神秘目录</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="page-header">
+            <h2>神秘目录</h2>
+        </div>
+        <div class="list-group" id="all-quote">
+            <a href="#" class='list-group-item quotelist disabled'><i>[等待解密中]</i></a>
+        </div>
+        <nav>
+            <ul class="pager">
+                <li><a href="#" id="previous">上一页</a></li>
+                <li><a href="#" id="next">下一页</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/crypto-js/crypto-js.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/main2.js"></script>
+    <script type="text/javascript" id="MathJax-script" async
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    </script>
+    <script>
+        if ($.getUrlParam('page') == null) {
+            pageN = 1;
+        } else {
+            pageN = $.getUrlParam('page');
+        }
+
+        if (pageN > 1) {
+            $("#previous").attr("href", "list2.html?page=" + String(Number(pageN) - 1));
+        } else {
+            $("#previous").attr("href", "list2.html?page=" + String(Math.floor((quote2.length + 1) / 20) + 1));
+        }
+
+        if (pageN < Math.floor((quote.length + 1) / 20) + 1) {
+            $("#next").attr("href", "list2.html?page=" + String(Number(pageN) + 1));
+        } else {
+            $("#next").attr("href", "list2.html?page=1");
+        }
+
+        $("h2").html("神秘目录 <span class='badge'>P" + pageN + "</span>");
+
+        function loadContent(key) {
+            $("#all-quote").html("");
+            for (num = 0; num < 20; num++) {
+                cont = "<a class='list-group-item quotelist' href='quote2.html?no=" +
+                    String(Number(num) + 1 + 20 * (pageN - 1)) + "'>";
+                if (quote2[Number(num) + 20 * (pageN - 1)].relative.length != 0) {
+                    cont = cont + "<span class='label label-info'>音</span> ";
+                }
+                if (quote2[Number(num) + 20 * (pageN - 1)].annotation.length != 0) {
+                    cont = cont + "<span class='label label-success'>境</span> ";
+                }
+                if (Number(num) + 20 * (pageN - 1) + 4 > quote2.length) {
+                    cont = cont + "<span class='label label-warning'>新</span> ";
+                }
+                cont = cont + "<span class='badge'>#" +
+                    String(Number(num) + 1 + 20 * (pageN - 1)) + "</span>" +
+                    decrypt(quote2[Number(num) + 20 * (pageN - 1)].content, key) + "</a>";
+                $("#all-quote").append(cont);
+            }
+        }
+    </script>
+</body>
+</html>

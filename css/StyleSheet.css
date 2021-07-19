@@ -1,0 +1,33 @@
+﻿#content {
+    font-size: 18px;
+    white-space: pre-line;
+}
+#annotation {
+    color: gray;
+}
+#speaker {
+    color: gray;
+    text-align: right;
+}
+ruby:not(rp), ruby:not(rt) {
+    margin: 5px;
+    border: 1px solid gray;
+    font-size: 30px;
+    font-family: 'Source Han Serif CN Heavy', 方正小标宋, 华文中宋, SimSun;
+}
+rp, rt {
+    font-size: 16px;
+    font-family: 'Source Han Serif CN', 方正小标宋, 华文中宋, SimSun;
+}
+.leancloud-visitors-count:before {
+    content: "本页阅读量 ";
+}
+.quotelist {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/* The copyright information has been moved to the footer of the website. */
+.power.txt-right {
+    display: none;
+}

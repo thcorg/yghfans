@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+
+<html lang="zh" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="pragma" content="no-cache,no-store" />
+    <meta http-equiv="expires" content="0" />
+    <title>国洪应援站 - 语录页面</title>
+    <link rel="stylesheet" href="css/StyleSheet.css" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+    <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+    <![endif]-->
+    <div class="container" style="margin-top: 15px;">
+        <nav class='navbar navbar-default'>
+            <div class='container-fluid'>
+                <div class='navbar-header'>
+                    <button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='#Nav'>
+                        <span class='sr-only'>Toggle navigation</span>
+                        <span class='icon-bar'></span>
+                        <span class='icon-bar'></span>
+                        <span class='icon-bar'></span>
+                    </button>
+                    <a class='navbar-brand' href='index.html'><img alt='Brand' src='favicon.ico' width='20' height='20'></a>
+                    <a class='navbar-brand' href='index.html'>国洪应援站</a>
+                </div>
+                <div class='collapse navbar-collapse' id='Nav'>
+                    <ul class='nav navbar-nav' id='NavUl'>
+                        <li class="active"><a href='quote.html'>语录</a></li>
+                        <li><a href='list.html'>目录</a></li>
+                        <li><a href='faq.html'>FAQ</a></li>
+                    </ul>
+                    <form class='navbar-form navbar-right' onsubmit='return false;'>
+                        <div class='form-group'>
+                            <input id='input-No' type='number' class='form-control' placeholder='输入语录编号…'>
+                        </div>
+                        <button type='button' id='button-No' class='btn btn-default'>前往</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+        <div class="page-header">
+            <h2>语录</h2>
+        </div>
+        <div class="jumbotron">
+            <div id="annotation"></div>
+            <div id="content"></div>
+            <div id="speaker"></div>
+            <div id="relative"></div>
+        </div>
+        <nav>
+            <ul class="pager">
+                <li><a href="#" id="previous">上一句</a></li>
+                <li><a href="quote.html">随机</a></li>
+                <li><a href="#" id="next">下一句</a></li>
+            </ul>
+        </nav>
+
+        <hr />
+        <span id="https://yghfans.github.io/index.html" class="leancloud_visitors">
+            <span class="leancloud-visitors-count">Loading</span><br />
+        </span>
+        <hr />
+        <div id="vcomments"></div>
+    </div>
+
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" id="MathJax-script" async
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    </script>
+    <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+    <script>
+        if (($.getUrlParam('no') == null) || ($.getUrlParam('no') < 1) || ($.getUrlParam('no') > quote.length)) {
+            no = Math.max(Math.floor(Math.random() * quote.length + 1) - 1, 1);
+            history.pushState({}, "国洪应援站 - 语录 #" + no, location.protocol + '//' + location.host + location.pathname + "?no=" + no);
+        } else {
+            no = Math.floor(Number($.getUrlParam('no')));
+        }
+
+        document.title = "国洪应援站 - 语录 #" + no;
+        rand = quote[Number(no) - 1];
+        $("h2").html("语录 <span class='badge'>#" + no + "</span>");
+
+        if (no > 1) {
+            $("#previous").attr("href", "quote.html?no=" + String(Number(no) - 1));
+        } else {
+            $("#previous").attr("href", "quote.html?no=" + quote.length);
+        }
+
+        if (no < quote.length) {
+            $("#next").attr("href", "quote.html?no=" + String(Number(no) + 1));
+        } else {
+            $("#next").attr("href", "quote.html?no=1");
+        }
+
+        if (rand.annotation != "") {
+            $("div#annotation").html(rand.annotation + "：");
+        } else {
+            $("div#annotation").html("");
+        }
+
+        if (typeof(rand.warning) != "undefined") {
+            for (number in rand.warning) {
+                $(".jumbotron").before("<div class='alert alert-" + rand.warning[number].type + "'><span class='glyphicon glyphicon-warning-sign'></span> <strong>[" + rand.warning[number].type.toUpperCase() + "]</strong> " + rand.warning[number].content + "</div>");
+            }
+        }
+
+        $("div#content").html(rand.content);
+        $("div#speaker").html("—— " + rand.speaker);
+        $("div#relative").html("");
+        if (rand.relative.length != 0) {
+            $("div#relative").append("<hr /><div class='panel panel-default'><div class='panel-body' id='panel-ruby'></div></div>");
+            for (number in rand.relative) {
+                $('#panel-ruby').append("<ruby class='character'>" +
+                    rand.relative[number].character + "<rp>(<rp><rt>" +
+                    rand.relative[number].ruby + "</rt><rp>)</rp></ruby>");
+            }
+        }
+        if (typeof(rand.contributor) != "undefined") {
+            $(".leancloud-visitors-count").after(" / 本条语录由 " + rand.contributor + " 供稿")
+        }
+        $('[data-toggle="tooltip"]').tooltip()
+
+        $('.leancloud_visitors').attr('id', 'https://yghfans.github.io/quote.html?no=' + no);
+        new Valine({
+            el: '#vcomments',
+            appId: 'F5EQW3errXoYEXJ8LYdhaYM2-gzGzoHsz',
+            appKey: '9lugEQcHxBLMGBjuqqjO9dYH',
+            path: 'https://yghfans.github.io/quote.html?no=' + no,
+            meta: ['nick', 'mail'],
+            avatar: 'retro',
+            placeholder: '发表您的评论吧！请注意遵守国家法律和公众良俗',
+            visitor: true
+        })
+    </script>
+</body>
+</html>

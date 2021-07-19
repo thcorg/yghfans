@@ -1,0 +1,2415 @@
+[
+  {
+    "annotation": "不会画2,2,6,6-四甲基-3,3,5,5-四(1,1-二甲基乙基)-4,4-双[1,1-二(1,1-二甲基乙基)-2,2-二甲基丙基]庚烷时",
+    "content": "咋办哩！",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "光说白脖话。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生没有写作业时",
+    "content": "这是骇人的。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "一位同学转班后",
+    "content": "他一走，都太平唉。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "这这这这题有什么好讲的。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "那么A。",
+    "relative": [
+      {
+        "character": "A",
+        "ruby": "eí"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生回答错问题时",
+    "content": "阳光高照，你胡说八道。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生回答错问题时",
+    "content": "文科生能言善辩，胡说八道。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "阿伏<small>伽德</small>罗常数$N_A$",
+    "relative": [
+      {
+        "character": "伏",
+        "ruby": "fu"
+      },
+      {
+        "character": "伽",
+        "ruby": "gā"
+      },
+      {
+        "character": "德",
+        "ruby": "de"
+      },
+      {
+        "character": "罗",
+        "ruby": "luo"
+      },
+      {
+        "character": "$N$",
+        "ruby": "eī"
+      },
+      {
+        "character": "$_A$",
+        "ruby": "eī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "没有学生回答问题时",
+    "content": "你们像傻掉一样，一天到晚不学习。",
+    "relative": [
+      {
+        "character": "傻",
+        "ruby": "shā"
+      },
+      {
+        "character": "掉",
+        "ruby": "diāo"
+      }
+    ],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "info",
+        "content": "这句话到底是什么，天知地知，你知我知。"
+      }
+    ]
+  },
+  {
+    "annotation": "没有学生回答问题时",
+    "content": "现在我们都是智障。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生看PPT速度太慢时",
+    "content": "你眼小啊！",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生看不到PPT上的图片时",
+    "content": "你色盲啊！",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生看PPT速度太慢时",
+    "content": "你鸡眼啊！",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "早上不读化学，恶劣！",
+    "relative": [
+      {
+        "character": "劣",
+        "ruby": "lüè"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "都能写出来，题就会做唉。",
+    "relative": [
+      {
+        "character": "出",
+        "ruby": "chǔ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生看PPT速度太慢时",
+    "content": "要一目五行。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "自习课多多啊！像早自习、小自习、政史地、体音美，都可以写化学。",
+    "relative": [
+      {
+        "character": "<a data-toggle='tooltip' data-original-title='第一个' data-placement='bottom' tooltip>自</a>",
+        "ruby": "zǐ"
+      },
+      {
+        "character": "史",
+        "ruby": "shī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "同分异构体",
+    "relative": [
+      {
+        "character": "分",
+        "ruby": "fèn"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "范德华力",
+    "relative": [
+      {
+        "character": "范",
+        "ruby": "fǎn"
+      },
+      {
+        "character": "德",
+        "ruby": "de"
+      },
+      {
+        "character": "华",
+        "ruby": "huā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "选择题做题秘诀",
+    "content": "一个懂等于四个懂，三个懂等于四个懂。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "询问作业情况",
+    "content": "谁没写完，举举手¿",
+    "relative": [
+      {
+        "character": "<a data-toggle='tooltip' data-original-title='第二个' data-placement='bottom' tooltip>举</a>",
+        "ruby": "jū"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "“烷烃”，“烷”是什么意思？是完美，不是完蛋！",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$\\pi$键",
+    "relative": [
+      {
+        "character": "$\\pi$",
+        "ruby": "pǎi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$\\rho$键",
+    "relative": [
+      {
+        "character": "$\\rho$",
+        "ruby": "roú"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$\\sigma$键",
+    "relative": [
+      {
+        "character": "$\\sigma$",
+        "ruby": "sēigèmā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有人用杨国洪刚说过的“π键”回答必修2问题时",
+    "content": "你别拽了。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "没人举手回答问题时",
+    "content": "XXX，我看你想说哩。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "被强迫起立回答问题的同学半天没吭气<small>儿</small>时",
+    "content": "你说呗，你咋不说哩？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "写作业、对答案、看解析、问同学、报题号，课代表我的题号呢？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "阻止拉窗帘时",
+    "content": "越拉越阴暗，要光明。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "稀释",
+    "relative": [
+      {
+        "character": "释",
+        "ruby": "shī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "冬天开空调时",
+    "content": "好温馨啊！",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有同学不会回答问题时",
+    "content": "真吓人啊！",
+    "relative": [
+      {
+        "character": "真",
+        "ruby": "zhèn"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "这这这这都什么啊这是。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "信息给予题",
+    "relative": [
+      {
+        "character": "给",
+        "ruby": "gěi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "良言不劝该死鬼，慈悲不渡自绝人。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "化学计算啊，就记住两个忽略：忽略这个，忽略那个。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "比喻—$\\text{CH}_3$只有一个键，连接一个后不能再连",
+    "content": "甲基叫终结者，像一个杀手。",
+    "relative": [
+      {
+        "character": "甲",
+        "ruby": "jiā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生不做笔记而喝水时",
+    "content": "滋滋有味，很悠闲啊！不错，心态很好。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "比喻—$\\text{CH}_2$—有两个键，就像什么也没有一样",
+    "content": "（—$\\text{CH}_2$—）无关紧要，最没意思唉。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "没人举手回答问题时",
+    "content": "我看你眉头紧锁，像在思考问题哩。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "没人举手回答问题时",
+    "content": "我看你笑的这么开心，想回答问题哩。",
+    "relative": [
+      {
+        "character": "这么",
+        "ruby": "zhèn"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "没人举手回答问题时",
+    "content": "XX，我看你嘴张那么大，是不是想回答问题哩？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "色盲，看不见圆的。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "正确",
+    "relative": [
+      {
+        "character": "确",
+        "ruby": "quò"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我一直说呢，咱们现在同学们每天也都是辛辛苦苦的，看着你也是在教室坐呢，其实，心没放在学习上。",
+    "relative": [
+      {
+        "character": "学",
+        "ruby": "xuě"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "杨国洪最高理想",
+    "content": "提高课堂效率，构建和谐社会。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "算了算了，不提了，一直都很失望。",
+    "relative": [
+      {
+        "character": "很",
+        "ruby": "hǐn"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "化学平衡是化学学习的最高境界。",
+    "relative": [
+      {
+        "character": "境",
+        "ruby": "jǐng"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "极端假设法",
+    "relative": [
+      {
+        "character": "极",
+        "ruby": "jī"
+      },
+      {
+        "character": "设",
+        "ruby": "shě"
+      },
+      {
+        "character": "法",
+        "ruby": "fā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "这题都简单题，一听都（能）听懂，关键是你就不动脑子。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "提及《杨国洪语录》时",
+    "content": "虽然难听，但就治病！",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "当某同学临时补批改作业时",
+    "content": "实验班第一恶人",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "提及《杨国洪语录》时",
+    "content": "善良不是没有原则，克制不是没有底线。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "提及发表《杨国洪语录》到校刊时",
+    "content": "可不敢！",
+    "relative": [
+      {
+        "character": "可",
+        "ruby": "kē"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "你说（的是）什么话啊你。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "问（的）问题太不成熟。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "省略",
+    "relative": [
+      {
+        "character": "省",
+        "ruby": "sěng"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "讲原子结构时",
+    "content": "一断开（化学键），都有这种欲望（形成8电子稳定结构）。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "缩聚反应",
+    "relative": [
+      {
+        "character": "缩",
+        "ruby": "suò"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "链节",
+    "relative": [
+      {
+        "character": "节",
+        "ruby": "jiē"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "六六六（$\\text{C}_{6}\\text{H}_{6}\\text{Cl}_{6}$）",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "磨刀不误砍柴工，沉着气不误收粮食。",
+    "relative": [
+      {
+        "character": "着",
+        "ruby": "zhu"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "已知短周期主族元素X、Y、Z、W、R……\n—叮叮叮（下课铃）\n我们明天再讲。",
+    "relative": [
+      {
+        "character": "主",
+        "ruby": "zhū/zhú"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "高考分热点、冷点。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "这一段图像也不圆也不方，咋求面积哩昂？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "微元法的新名称",
+    "content": "模糊计算",
+    "relative": [
+      {
+        "character": "模",
+        "ruby": "mǒ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "杀菌消毒",
+    "relative": [
+      {
+        "character": "杀",
+        "ruby": "sā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生回答错问题时",
+    "content": "往哪8哩8。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "耻辱",
+    "relative": [
+      {
+        "character": "辱",
+        "ruby": "rù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "你拿个麻绳啃一啃。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "没心没肺，非常可恨。",
+    "relative": [
+      {
+        "character": "没",
+        "ruby": "mèi"
+      },
+      {
+        "character": "没",
+        "ruby": "mēi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生抄作业被抓现行时",
+    "content": "年纪小小，心机很深。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有学生抄作业被抓现行时",
+    "content": "你成不了大器。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "丁基",
+    "relative": [
+      {
+        "character": "丁",
+        "ruby": "dǐng"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "它们会反应吗？永远不会。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$v = {{\\Delta c} \\over {\\Delta t}}$",
+    "relative": [
+      {
+        "character": "$\\Delta$",
+        "ruby": "dērta"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "加减法",
+    "relative": [
+      {
+        "character": "法",
+        "ruby": "fā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "熟视无睹，都是那别样<small>儿</small>。",
+    "relative": [
+      {
+        "character": "熟",
+        "ruby": "shū"
+      },
+      {
+        "character": "无",
+        "ruby": "wù"
+      },
+      {
+        "character": "睹",
+        "ruby": "dū"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "中！",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "宣传自主讨论模式时",
+    "content": "敞开心扉，无遮无拦，一定要真诚，要大胆。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "强调课本的重要性时",
+    "content": "（课本和辅导资料）内容不一样，气味不一样。",
+    "relative": [
+      {
+        "character": "<a data-toggle='tooltip' data-original-title='第二个' data-placement='bottom' tooltip>不</a>",
+        "ruby": "bǔ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "某上节课请假的同学被提问时",
+    "content": "非常的生疏。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "16页有个13题，13题有个(2)，(2)中有个小③，看看小③怎么做。",
+    "relative": [
+      {
+        "character": "么",
+        "ruby": "mé"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "四个字：按减压处理。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "太难了吧这。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "时而清醒，时而糊涂。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "说错无罪。",
+    "relative": [
+      {
+        "character": "说",
+        "ruby": "shuó"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "选修4学完后",
+    "content": "我们现在都相当于高三复习。",
+    "relative": [
+      {
+        "character": "都",
+        "ruby": "doù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "在课本的上边下边？中间！",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "蓝笔答题",
+    "relative": [
+      {
+        "character": "答",
+        "ruby": "dā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$v_正=v_逆$",
+    "relative": [
+      {
+        "character": "$v$",
+        "ruby": "wěi"
+      },
+      {
+        "character": "逆",
+        "ruby": "ní"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "两个因素同时影响怎么做？抓主要矛盾。选修4就这一个，抓主要矛盾。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "温度，高一点；压强，小一点。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "没毛病",
+    "relative": [
+      {
+        "character": "毛",
+        "ruby": "māo"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "孬蛋",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$\\imath\\imath_\\imath$（$2\\text{I}_2$）",
+    "relative": [],
+    "speaker": "杨国洪的板书"
+  },
+  {
+    "annotation": "",
+    "content": "列表格<small>儿</small>",
+    "relative": [
+      {
+        "character": "列",
+        "ruby": "lié"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "强调化学的重要性时",
+    "content": "$6-1=0$。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "强调化学的重要性时",
+    "content": "英语不重要，化学最重要。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "顺其自然，简简单单的。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "说是边做边改，其实边看边抄。",
+    "relative": [
+      {
+        "character": "其",
+        "ruby": "qī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "要讲的举举手？都没有，那不讲唉。",
+    "relative": [
+      {
+        "character": "<a data-toggle='tooltip' data-original-title='第二个' data-placement='bottom' tooltip>举</a>",
+        "ruby": "jū"
+      },
+      {
+        "character": "没有",
+        "ruby": "$\\mu$"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "如果组长不给你讲，你可以举报组长，他不给你讲，他有罪。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "有的人走着走着就没有唉。",
+    "relative": [
+      {
+        "character": "着",
+        "ruby": "zhu"
+      },
+      {
+        "character": "没有",
+        "ruby": "$\\mu$"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "绪论",
+    "relative": [
+      {
+        "character": "论",
+        "ruby": "lèi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "一想，你心里就很激动，很兴奋，很幸福。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "师爷",
+    "relative": [
+      {
+        "character": "师",
+        "ruby": "sī"
+      }
+    ],
+    "speaker": "一些老师对杨国洪的称呼"
+  },
+  {
+    "annotation": "教肥皂的去污原理时",
+    "content": "油污你进水吧进水吧进水吧。",
+    "relative": [],
+    "speaker": "$\\text{C}_{17}\\text{H}_{35}\\text{COO}^{\\text{-}}$<br>（饰演者：杨国洪）"
+  },
+  {
+    "annotation": "",
+    "content": "橙色",
+    "relative": [
+      {
+        "character": "橙",
+        "ruby": "chèng"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "你做错了。你怎么答错唉？",
+    "relative": [
+      {
+        "character": "做",
+        "ruby": "zuō"
+      },
+      {
+        "character": "答",
+        "ruby": "dā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "前途光明，道路曲折。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "让同学打开电脑时",
+    "content": "来来来，你来操作。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有同学上课睡觉时",
+    "content": "你的姿势一动不动，像雕塑一样。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "足量",
+    "relative": [
+      {
+        "character": "足",
+        "ruby": "zù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "无影响",
+    "relative": [
+      {
+        "character": "无",
+        "ruby": "wǔ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "一个反应要爆炸了，你还平衡啥气压哩，赶快跑吧。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "阻止同学的惊讶声时",
+    "content": "别啊啊。",
+    "relative": [
+      {
+        "character": "别",
+        "ruby": "báo"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有同学回答错问题时",
+    "content": "揪你头吧¿",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "你总是不甘心。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "阿拉伯",
+    "relative": [
+      {
+        "character": "阿",
+        "ruby": "ǎ"
+      },
+      {
+        "character": "拉",
+        "ruby": "lā"
+      },
+      {
+        "character": "伯",
+        "ruby": "bōwō"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "尤其是那十一个精准扶贫的。",
+    "relative": [
+      {
+        "character": "尤",
+        "ruby": "yoū"
+      },
+      {
+        "character": "其",
+        "ruby": "qī"
+      },
+      {
+        "character": "准",
+        "ruby": "zhuǐ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "如此简单",
+    "relative": [
+      {
+        "character": "如",
+        "ruby": "rù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有同学人云亦云回答问题时",
+    "content": "变色龙啊你？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "有同学人云亦云回答问题时",
+    "content": "小壁虎？变色龙？双面人？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "询问盛$\\text{NaOH}$的容器用什么塞子时",
+    "content": "什么塞<small>儿</small>？",
+    "relative": [
+      {
+        "character": "塞<small>儿</small>",
+        "ruby": "sār"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "算这个值的时候……",
+    "relative": [
+      {
+        "character": "值",
+        "ruby": "zí"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "无穷大",
+    "relative": [
+      {
+        "character": "无",
+        "ruby": "wù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "无关",
+    "relative": [
+      {
+        "character": "无",
+        "ruby": "wū"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "某知识点记忆口诀",
+    "content": "剂小大变，剂大小变。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "思维很清晰。",
+    "relative": [
+      {
+        "character": "维",
+        "ruby": "wēi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$t_末$",
+    "relative": [
+      {
+        "character": "末",
+        "ruby": "mō"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "仰视",
+    "relative": [
+      {
+        "character": "仰",
+        "ruby": "yāng"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "分步走",
+    "relative": [
+      {
+        "character": "走",
+        "ruby": "zhoǔ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "考完唉，一问，你为什么考那么差？谁知道。",
+    "relative": [
+      {
+        "character": "那",
+        "ruby": "nā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "阳离子",
+    "relative": [
+      {
+        "character": "阳",
+        "ruby": "yǎng"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "储存",
+    "relative": [
+      {
+        "character": "储",
+        "ruby": "chú"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "非常一样",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "认为",
+    "relative": [
+      {
+        "character": "为",
+        "ruby": "wèi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "这题算得你恶心。",
+    "relative": [
+      {
+        "character": "恶",
+        "ruby": "ē"
+      },
+      {
+        "character": "心",
+        "ruby": "xin"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "商和积",
+    "relative": [
+      {
+        "character": "积",
+        "ruby": "jǐ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "现在记不住不要紧，明年还要讲，来日方长。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$K$写大一点，让你印象深刻一点。",
+    "relative": [
+      {
+        "character": "$K$",
+        "ruby": "kāi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我最后再算一遍，你再欣赏一遍。",
+    "relative": [
+      {
+        "character": "<a data-toggle='tooltip' data-original-title='第一个' data-placement='bottom' tooltip>再</a>",
+        "ruby": "zǎi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "珍藏",
+    "relative": [
+      {
+        "character": "珍",
+        "ruby": "zhěn"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "送书最有品位，最高贵，其他太俗。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "这本书《激发潜能　唤醒感恩的心》。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "（出版社）免费赠送，更伟大。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "她当演说家，你考清华北大当教授就行了。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "很负责，改天请你吃烩面。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "红包请客都很俗，送书就很合适。",
+    "relative": [
+      {
+        "character": "适",
+        "ruby": "shī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "对你要求不高，胡上个清华北大。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "过年给科代表送书时",
+    "content": "还感谢$\\text{Ra}_{3}\\text{S}$<small>（硫镭，化名）</small>，送了牛肉糖<small>（其实是牛肉粒）</small>，没吃过，吃着很舒服。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "提及评选最美教师时",
+    "content": "别评我，评你们语文老师，生物老师，晓花老师，年轻漂亮。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "对自己“<a href='quote.html?no=109'>师爷</a>”称号的看法",
+    "content": "我对他们说，别这么叫了，这么叫显得很多孙子们。",
+    "relative": [
+      {
+        "character": "孙",
+        "ruby": "suī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "提及以前的学生",
+    "content": "很难管理，天天放鞭炮啊，根本管不成。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "提及以前的学生",
+    "content": "不能变光能，不能变热能，能量无处释放。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$\\text{Na}_{2}\\text{O}_{2}$在高中化学里是个小精灵，飘忽不定，是一个精灵式的人物。",
+    "relative": [
+      {
+        "character": "忽",
+        "ruby": "hǔ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$\\text{CO}$是几$\\text{mol}$？\n—$3\\text{mol}$！\n咋$3\\text{mol}$唉，不是$1.5\\text{mol}$吗，不是肚饥唉想吃馍唉吧，吃仨馍？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "水的水溶液",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "记下来，这是个特殊情况。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "■■■她都不懂，她是文盲。学化学不学■■，学■■不学化学，没共同语言。他们在咱面前都是文盲。",
+    "relative": [
+      {
+        "character": "没",
+        "ruby": "mēi"
+      }
+    ],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "info",
+        "content": "这句话到底是什么，天知地知，你知我知。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "温度快",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "要有正义感，敢于对XXX<small>（某班长）</small>作斗争。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "XXX<small>（某班长）</small>这人脾气很好。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "写题要心态平和。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "化学反应是人爬山的话，增加温度就好比吃一碗烩面或吃片<small>儿</small>药，一吃烩面就有劲<small>儿</small>唉。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "讲熵增时",
+    "content": "只要有人，就有坏人。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "讲熵增时",
+    "content": "为什么学不进？自然规律！",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "讲熵增时",
+    "content": "左边两个气体，右边三个气体，俩乱人变仨乱人，所以熵增唉。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "讲熵增时",
+    "content": "气体更乱，它会飞。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "讲熵增时",
+    "content": "乱，必然的。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "讲熵增时",
+    "content": "野人，乱过哩。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "看淡了。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+
+  {
+    "annotation": "",
+    "content": "林",
+    "relative": [
+      {
+        "character": "林",
+        "ruby": "léi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "雨",
+    "relative": [
+      {
+        "character": "雨",
+        "ruby": "lì"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "薛",
+    "relative": [
+      {
+        "character": "薛",
+        "ruby": "xiè"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "雅",
+    "relative": [
+      {
+        "character": "雅",
+        "ruby": "yà"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "宇",
+    "relative": [
+      {
+        "character": "宇",
+        "ruby": "yù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "鹃",
+    "relative": [
+      {
+        "character": "鹃",
+        "ruby": "gē"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "杨国洪的手机铃声",
+    "content": "<i>回首依然望见故乡月亮～</i>",
+    "relative": [],
+    "speaker": "王晓天《荣耀》"
+  },
+  {
+    "annotation": "",
+    "content": "要学会分析问题能力。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "做题方法",
+    "content": "眼睛眨都不眨，就设（未知数）唉。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "有的同学想七想八，没法做唉。",
+    "relative": [
+      {
+        "character": "没",
+        "ruby": "mēi"
+      },
+      {
+        "character": "法",
+        "ruby": "fā"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "方法很简单，关键是坚定不移去执行。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "非（得）勾起你的回忆哩？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "考试方法",
+    "content": "所谓考试，就是你是骗子，去骗改卷老师，使人信服。",
+    "relative": [
+      {
+        "character": "服",
+        "ruby": "fù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "考试方法",
+    "content": "骗人骗圆，哄人哄像。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "什么时候说过放假有作业？化学就没作业，都是课下练习。",
+    "relative": [
+      {
+        "character": "作",
+        "ruby": "zuó"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "好友",
+    "relative": [
+      {
+        "character": "友",
+        "ruby": "yoù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "组长熊，熊一窝。",
+    "relative": [
+      {
+        "character": "组",
+        "ruby": "zū"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "火车跑得快，都靠车头带。",
+    "relative": [
+      {
+        "character": "得",
+        "ruby": "dé"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "不符合时代要求。",
+    "relative": [
+      {
+        "character": "符",
+        "ruby": "fù"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "一个组四分五裂。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "你太健忘，赶快喝脑白金昂。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "warning",
+        "content": "本内容不构成医疗建议等任何可能造成损失的建议，相关问题请遵医嘱。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "地基不牢，地动山摇。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "时间宝贵",
+    "relative": [
+      {
+        "character": "间",
+        "ruby": "qián"
+      },
+      {
+        "character": "贵",
+        "ruby": "wèi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "闭塞",
+    "relative": [
+      {
+        "character": "塞",
+        "ruby": "sài"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "老实做人",
+    "relative": [
+      {
+        "character": "实",
+        "ruby": "shì"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "官能团",
+    "relative": [
+      {
+        "character": "官",
+        "ruby": "guǎn"
+      },
+      {
+        "character": "能",
+        "ruby": "nēng"
+      },
+      {
+        "character": "团",
+        "ruby": "tuān"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "十字交叉法",
+    "relative": [
+      {
+        "character": "叉",
+        "ruby": "cēr"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "零点五",
+    "relative": [
+      {
+        "character": "五",
+        "ruby": "wū"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "今天三点二十公布答案，谁完不成发红包。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "完成就上传，最迟明天下午三点二十前，你的明白？",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "XXX昨天上传作业，今天咋没上传作业，去串亲了？",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我在上边讲得浑身出汗，你在下边睡得满脸通红。",
+    "relative": [
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "摩每升每分",
+    "relative": [
+      {
+        "character": "分",
+        "ruby": "fēi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "把水蒸没了。",
+    "relative": [
+      {
+        "character": "没",
+        "ruby": "mēi"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "物质不稳定，受热易分解。",
+    "relative": [
+      {
+        "character": "稳",
+        "ruby": "wēi"
+      },
+      {
+        "character": "易",
+        "ruby": "yǐ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "某个瞬间",
+    "relative": [
+      {
+        "character": "瞬",
+        "ruby": "shuì"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "远离垃圾人。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "近朱者赤，近墨者黑，如果你上课睡觉，你同桌给你说“睡吧睡吧”，那你睡得更香哎；如果你同桌感染了新冠肺炎，那你肯定跑不了。",
+    "relative": [
+      {
+        "character": "睡",
+        "ruby": "sheì/shùn"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我们学选修5只是复习必修2知识，不是说非得认那么多有机物。就像走在大街上看到一个人，你也不需要知道他有没有亲戚，有什么疾病。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "某同学上课瞌睡不抬头时",
+    "content": "我咋没看到你脸哎，你有病（得病）哎？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "教室里飞进来一只麻雀时",
+    "content": "把门打开，让小麻雀走吧。",
+    "relative": [
+      {
+        "character": "把",
+        "ruby": "bā"
+      },
+      {
+        "character": "麻",
+        "ruby": "xú"
+      },
+      {
+        "character": "雀",
+        "ruby": "xùer"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "门开了麻雀还是不走时",
+    "content": "你不要管它哎，它晕哎你把它包着烤咯吃吃，通香哩。",
+    "relative": [
+      {
+        "character": "着",
+        "ruby": "zhu"
+      }
+    ],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "danger",
+        "content": "珍爱生命，远离野味。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "老实点？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "老打嗝咯你吃点柿疙瘩，那东西专治打嗝。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "warning",
+        "content": "本内容不构成医疗建议等任何可能造成损失的建议，相关问题请遵医嘱。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "桃子、李子、杏子",
+    "relative": [
+      {
+        "character": "李子",
+        "ruby": "liǔ"
+      },
+      {
+        "character": "杏子",
+        "ruby": "hèr"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "“烯醛”，这名字真好听。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "要振作起来，两眼发光。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "蚂蚁里含有蚁酸，你放假回家咯可以逮几只蚂蚁吃吃，看看酸不酸。佳妮<small>儿</small>，你吃过？我看你那么激动。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "danger",
+        "content": "蚁酸有毒，请勿模仿。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "蚁酸有毒，你可不敢吃多，吃三五个就没事，以前不是还有蚂蚁口服液哩？",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "danger",
+        "content": "蚁酸有毒，请勿模仿。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "丙酮具有令人愉悦的气味，你们可以商量商量同桌买一瓶，不高兴咯闻闻，就愉悦哎。你们自己买，有毒咯责任自负。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "danger",
+        "content": "丙酮具有毒性，且易燃，若不慎接触请立即就医。"
+      },
+      {
+        "type": "warning",
+        "content": "本内容不构成医疗建议等任何可能造成损失的建议，相关问题请遵医嘱。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "有机化学又没有复杂计算，选择题眼一看就画哎，（一节课）应该能做完。",
+    "relative": [
+      {
+        "character": "复",
+        "ruby": "fǔ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "生活很复杂啊，都没有那么简单的。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我看你抿着嘴笑，想回答问题哩。",
+    "relative": [
+      {
+        "character": "抿",
+        "ruby": "mǐ"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "咋光误导我哎你，老是犯错误。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "看到这个脂，心里有点恶心慌。应当喜欢，你天天吃哩昂。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "有人批批记记，有人无动于衷。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "盐碱地加熟石灰，生成$\\text{CaCO}_{3}$，就是石头，一锄，锄折了，一挖，铲弯了，不能改善土壤条件。",
+    "relative": [
+      {
+        "character": "折",
+        "ruby": "shé"
+      },
+      {
+        "character": "铲",
+        "ruby": "qiān"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "今天课间做眼保健操不做？昨天做了没有？没有，那今天也不做，这就是迁移能力。\n<i>噔噔噔噔~噔噔蹬蹬~轻闭双眼……</i>",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "同学们两年前都看着很机灵啊，现在咋都木木呆呆哩，不能说上了三年学变傻啊？都变那老谋深算？",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "守恒法是化学的灵魂。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我边讲你们边写，节约时间。你听懂哎没有？听懂了再写。",
+    "relative": [
+      {
+        "character": "约",
+        "ruby": "yuō"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "现在总结一下有机化学，很简单的，没几句就完了，总结下来也没几个字，比无机简单多了。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "info",
+        "content": "说着就写了一黑板。"
+      },
+      {
+        "type": "info",
+        "content": "还擦了好几遍，把课程表也擦掉了。"
+      }
+    ]
+  },
+  {
+    "annotation": "",
+    "content": "消灭不及格。",
+    "relative": [
+      {
+        "character": "及",
+        "ruby": "jī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "风扇下面坐一堆，空调底下坐一堆，说是讨论问题，其实动机不纯。",
+    "relative": [
+      {
+        "character": "其",
+        "ruby": "qī"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "讲错（题目的）人很多，因为骗子太多。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我应当不是骗子，也应当不会骗你。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "今天吃饭时间延迟不延迟？不延迟，正合我意。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "墙头草，随风倒。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "谁要是不及格谁就来前面唱歌，你要选忏悔的歌，“我有罪，宽恕我吧，饶恕我吧”。你对不起大家，你是实验班罪人。",
+    "relative": [
+      {
+        "character": "悔",
+        "ruby": "huì"
+      }
+    ],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "$\\text{K}^{+}$走了，它已经没法再呆下去了。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "多有意思啊！方程套方程，像做游戏一样，充满了乐趣和快乐。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "（淼淼）水太多，六个水。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "这是我的理解，也不一定真。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "初中时你都不可一世啊，在学校都是一霸啊。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "提个兜真方便，什么都能放。还有个好处，东西不掉。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "我找到的时候再说你。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "纳米其实并不神秘，它就是一个物理单位么。你吃的馍，是纳米馍，你家的小米汤，是纳米小米汤。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "LJN"
+  },
+  {
+    "annotation": "",
+    "content": "到了高三，同学们状态真好啊，吃得好，喝得好，到了高三就应该多吃点、多喝点，真好啊。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "LJN"
+  },
+  {
+    "annotation": "",
+    "content": "真会顺杆爬。",
+    "relative": [],
+    "speaker": "杨国洪"
+  },
+  {
+    "annotation": "",
+    "content": "咱班的点名册真白啊，都是好学生，16班的黑乎乎的。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "LJN"
+  },
+  {
+    "annotation": "",
+    "content": "不交作业的（复习生）怎么名字都是黑的啊？我懂了，这是有概率的。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "info",
+        "content": "复习生的名字是用笔补加到点名册上的，点名册沾水后笔迹溶解了。"
+      }
+    ],
+    "contributor": "LJN"
+  },
+  {
+    "annotation": "考前辅导时",
+    "content": "（大$\\pi$键）我都不会，它会考？",
+    "relative": [],
+    "speaker": "杨国洪",
+    "warning": [
+      {
+        "type": "info",
+        "content": "第二天考试题目就问到了$\\text{NO}_3^\\text{-}$中的大$\\pi$键。"
+      }
+    ],
+    "contributor": "QC"
+  },
+  {
+    "annotation": "考试后提及成绩时",
+    "content": "不说了，伤感情。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "LJN"
+  },
+  {
+    "annotation": "扩音器说“电量低，请及时充电”时",
+    "content": "你再叫，再叫也不给你充。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "ZJY"
+  },
+  {
+    "annotation": "",
+    "content": "（孤电子对）单身多幸福，多自由啊，想去哪里，就去哪里。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "QC"
+  },
+  {
+    "annotation": "",
+    "content": "佳妮，睁睁眼吧。",
+    "relative": [
+      {
+        "character": "睁",
+        "ruby": "zēng"
+      }
+    ],
+    "speaker": "杨国洪",
+    "contributor": "LJN"
+  },
+  {
+    "annotation": "",
+    "content": "叫人上来写方程式，就跟抽奖一样，抽的，都是不会的；会的，都抽不到。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "QC"
+  },
+  {
+    "annotation": "",
+    "content": "感觉心里拔凉拔凉的。",
+    "relative": [
+      {
+        "character": "拔",
+        "ruby": "bà"
+      }
+    ],
+    "speaker": "杨国洪",
+    "contributor": "QC"
+  },
+  {
+    "annotation": "",
+    "content": "这化学题出的真恶毒啊，五官（三观）都扭曲了，让人没有了五官（三观）。",
+    "relative": [
+      {
+        "character": "恶",
+        "ruby": "ē"
+      }
+    ],
+    "speaker": "杨国洪",
+    "contributor": "FJQ & XJL"
+  },
+  {
+    "annotation": "",
+    "content": "这套题普通班都不写的，因为他们在餐厅学习，其实都是借口，主要是他们班老师不想给他们讲。那咱们班那这是没办法了，对吧，啊？这套题出的极其变态，我在办公室写写画画一个多小时还没写出来。\n<i>（学生：用小猿搜题）</i>\n你当我没用过小猿搜题？我拍唉，都拍不着，都是新题，全新的变态。",
+    "relative": [
+      {
+        "character": "态",
+        "ruby": "tāi"
+      },
+      {
+        "character": "着",
+        "ruby": "zhé"
+      }
+    ],
+    "speaker": "杨国洪",
+    "contributor": "LJN"
+  },
+  {
+    "annotation": "",
+    "content": "现在江湖人士比较多。",
+    "relative": [],
+    "speaker": "杨国洪",
+    "contributor": "LJN"
+  }
+]
