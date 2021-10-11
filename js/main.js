@@ -1,6 +1,6 @@
 // 读取语录文件
 $.ajax({
-    url: 'https://paandaa.gitee.io/yghfans/js/Quotes.json',
+    url: 'https://thcorg.github.io/yghfans/js/Quotes.json',
     async: false,
     cache: false,
     success: function (data) {

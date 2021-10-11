@@ -15,7 +15,7 @@ $("nav.navbar").after(alertDiv);
 
 // 读取语录文件2
 $.ajax({
-    url: 'https://paandaa.gitee.io/yghfans/js/Quotes2.json',
+    url: 'https://thcorg.github.io/yghfans/js/Quotes2.json',
     async: false,
     cache: false,
     success: function (data) {
